@@ -1,0 +1,31 @@
+body {
+border-style: solid;
+border-color:red;
+border-width: 5px;
+padding-left: 120px;
+width: 500px;
+margin: 0% auto;
+height: 1500px;
+border-radius: 100px;
+box-shadow: 0 4px 10px;
+padding-top: 100px;
+}
+input{
+padding-left :50px;  
+margin-bottom: 20px; 
+border-radius: 30px;
+width: 350px;
+height: 36px;
+}
+h2{
+    margin-top:0px;
+}
+
+
+
+
+
+
+
+
+

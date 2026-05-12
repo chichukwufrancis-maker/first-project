@@ -1,0 +1,19 @@
+
+
+
+.box11{
+    border: 3px solid red ;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+   left:1100px;
+   top: 500px;
+   position: fixed;
+
+}
+.chatimg {
+    /* border-radius: 100%; */
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
